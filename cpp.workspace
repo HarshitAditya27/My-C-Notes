@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="cpp" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Section5" Path="Section5/Section5.project" Active="No"/>
+  <Project Name="Variables" Path="Variables/Variables.project" Active="No"/>
+  <Project Name="constants" Path="constants/constants.project" Active="No"/>
+  <Project Name="arrays" Path="arrays/arrays.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
+  <Project Name="operators" Path="operators/operators.project" Active="No"/>
+  <Project Name="mixedexpression" Path="mixedexpression/mixedexpression.project" Active="No"/>
+  <Project Name="logicaloperator" Path="logicaloperator/logicaloperator.project" Active="No"/>
+  <Project Name="ifstatement" Path="ifstatement/ifstatement.project" Active="No"/>
+  <Project Name="ifelse" Path="ifelse/ifelse.project" Active="No"/>
+  <Project Name="nestedif" Path="nestedif/nestedif.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="conditionaloperator" Path="conditionaloperator/conditionaloperator.project" Active="No"/>
+  <Project Name="forloop" Path="forloop/forloop.project" Active="No"/>
+  <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
+  <Project Name="whileloop" Path="whileloop/whileloop.project" Active="No"/>
+  <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="No"/>
+  <Project Name="NestedLoops" Path="continueandbreak/continueandbreak.project" Active="No"/>
+  <Project Name="project2" Path="Project2/project2.project" Active="No"/>
+  <Project Name="CStyleString" Path="CStyleString/CStyleString.project" Active="No"/>
+  <Project Name="cppstrings" Path="cppstrings/cppstrings.project" Active="No"/>
+  <VirtualDirectory Name="Function">
+    <Project Name="FunctionDefination" Path="FunctionDefination/FunctionDefination.project" Active="No"/>
+    <Project Name="FunctionPrototype" Path="FunctionPrototype/FunctionPrototype.project" Active="No"/>
+    <Project Name="DefaultArguments" Path="DefaultArguments/DefaultArguments.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="pointers" Path="pointers/pointers.project" Active="No"/>
+  <Project Name="dereferecingpointers" Path="dereferecingpointers/dereferecingpointers.project" Active="No"/>
+  <Project Name="dynamicmemoryalloction" Path="dynamicmemoryalloction/dynamicmemoryalloction.project" Active="No"/>
+  <Project Name="arrayandpointers" Path="arrayandpointers/arrayandpointers.project" Active="No"/>
+  <Project Name="pointerarithmatic" Path="pointerarithmatic/pointerarithmatic.project" Active="No"/>
+  <Project Name="passingpointers2" Path="passingpointers2/passingpointers2.project" Active="No"/>
+  <Project Name="passingpointers3" Path="passingpointers3/passingpointers3.project" Active="No"/>
+  <Project Name="ReturnPointer" Path="ReturnPointer/ReturnPointer.project" Active="No"/>
+  <Project Name="refrences" Path="refrences/refrences.project" Active="No"/>
+  <Project Name="vectorassignemnt" Path="vectorassignemnt/vectorassignemnt.project" Active="No"/>
+  <Project Name="ControlFlowAssignment" Path="ControlFlowAssignment/ControlFlowAssignment.project" Active="No"/>
+  <Project Name="pointersassignment" Path="pointersassignment/pointersassignment.project" Active="No"/>
+  <Project Name="DeclearingClassesandObjects" Path="DeclearingClassesandObjects/DeclearingClassesandObjects.project" Active="No"/>
+  <Project Name="AccesingClassMembers" Path="AccesingClassMembers/AccesingClassMembers.project" Active="No"/>
+  <Project Name="publicandprivate" Path="publicandprivate/publicandprivate.project" Active="No"/>
+  <Project Name="implementingMethods1" Path="implementingMethods1/implementingMethods1.project" Active="No"/>
+  <Project Name="implementingMethods2" Path="implementingMethods2/implementingMethods2.project" Active="No"/>
+  <Project Name="ConstructorsandDestructords" Path="ConstructorsandDestructords/ConstructorsandDestructords.project" Active="No"/>
+  <Project Name="DefaultConstructors" Path="DefaultConstructors/DefaultConstructors.project" Active="No"/>
+  <Project Name="ConstructorInitializationList" Path="ConstructorInitializationList/ConstructorInitializationList.project" Active="No"/>
+  <Project Name="DelegatingConstructors" Path="DelegatingConstructors/DelegatingConstructors.project" Active="No"/>
+  <Project Name="ConstructorParameterandDefaultValuers" Path="ConstructorParameterandDefaultValuers/ConstructorParameterandDefaultValuers.project" Active="No"/>
+  <Project Name="CopyConstructor" Path="CopyConstructor/CopyConstructor.project" Active="No"/>
+  <Project Name="shallowcopying" Path="shallowcopying/shallowcopying.project" Active="No"/>
+  <Project Name="DeepCopying" Path="DeepCopying/DeepCopying.project" Active="No"/>
+  <Project Name="MoveConstrutors" Path="MoveConstrutors.project" Active="No"/>
+  <Project Name="StaticClassMembers" Path="StaticClassMembers.project" Active="No"/>
+  <Project Name="Mystring-Home" Path="Mystring-Home.project" Active="No"/>
+  <Project Name="MyString-Copy" Path="MyString-Copy.project" Active="No"/>
+  <Project Name="hgdcpp" Path="hgdcpp.project" Active="No"/>
+  <VirtualDirectory Name="Polymorphism">
+    <Project Name="TheProblem" Path="TheProblem.project" Active="No"/>
+    <Project Name="VirtualFunction" Path="VirtualFunction.project" Active="No"/>
+    <Project Name="virtualdestructors" Path="virtualdestructors.project" Active="No"/>
+    <Project Name="useoverride" Path="useoverride.project" Active="No"/>
+    <Project Name="purevirtualfunction" Path="purevirtualfunction.project" Active="No"/>
+    <Project Name="interfacesstart" Path="interfacesstart.project" Active="No"/>
+  </VirtualDirectory>
+  <Project Name="MPGException" Path="MPGException.project" Active="No"/>
+  <Project Name="MPGFunction" Path="MPGFunction.project" Active="No"/>
+  <Project Name="Functiontemplete" Path="Functiontemplete.project" Active="No"/>
+  <Project Name="ClassTemplate" Path="ClassTemplate.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Section5" ConfigName="Debug"/>
+      <Project Name="Variables" ConfigName="Debug"/>
+      <Project Name="constants" ConfigName="Debug"/>
+      <Project Name="arrays" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
+      <Project Name="operators" ConfigName="Debug"/>
+      <Project Name="mixedexpression" ConfigName="Debug"/>
+      <Project Name="logicaloperator" ConfigName="Debug"/>
+      <Project Name="ifstatement" ConfigName="Debug"/>
+      <Project Name="ifelse" ConfigName="Debug"/>
+      <Project Name="nestedif" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="conditionaloperator" ConfigName="Debug"/>
+      <Project Name="forloop" ConfigName="Debug"/>
+      <Project Name="RangeBasedForLoop" ConfigName="Debug"/>
+      <Project Name="whileloop" ConfigName="Debug"/>
+      <Project Name="DoWhile" ConfigName="Debug"/>
+      <Project Name="NestedLoops" ConfigName="Debug"/>
+      <Project Name="project2" ConfigName="Debug"/>
+      <Project Name="CStyleString" ConfigName="Debug"/>
+      <Project Name="cppstrings" ConfigName="Debug"/>
+      <Project Name="FunctionDefination" ConfigName="Debug"/>
+      <Project Name="FunctionPrototype" ConfigName="Debug"/>
+      <Project Name="DefaultArguments" ConfigName="Debug"/>
+      <Project Name="pointers" ConfigName="Debug"/>
+      <Project Name="dereferecingpointers" ConfigName="Debug"/>
+      <Project Name="dynamicmemoryalloction" ConfigName="Debug"/>
+      <Project Name="arrayandpointers" ConfigName="Debug"/>
+      <Project Name="pointerarithmatic" ConfigName="Debug"/>
+      <Project Name="passingpointers2" ConfigName="Debug"/>
+      <Project Name="passingpointers3" ConfigName="Debug"/>
+      <Project Name="ReturnPointer" ConfigName="Debug"/>
+      <Project Name="refrences" ConfigName="Debug"/>
+      <Project Name="vectorassignemnt" ConfigName="Debug"/>
+      <Project Name="ControlFlowAssignment" ConfigName="Debug"/>
+      <Project Name="pointersassignment" ConfigName="Debug"/>
+      <Project Name="DeclearingClassesandObjects" ConfigName="Debug"/>
+      <Project Name="AccesingClassMembers" ConfigName="Debug"/>
+      <Project Name="publicandprivate" ConfigName="Debug"/>
+      <Project Name="implementingMethods1" ConfigName="Debug"/>
+      <Project Name="implementingMethods2" ConfigName="Debug"/>
+      <Project Name="ConstructorsandDestructords" ConfigName="Debug"/>
+      <Project Name="DefaultConstructors" ConfigName="Debug"/>
+      <Project Name="ConstructorInitializationList" ConfigName="Debug"/>
+      <Project Name="DelegatingConstructors" ConfigName="Debug"/>
+      <Project Name="ConstructorParameterandDefaultValuers" ConfigName="Debug"/>
+      <Project Name="CopyConstructor" ConfigName="Debug"/>
+      <Project Name="shallowcopying" ConfigName="Debug"/>
+      <Project Name="DeepCopying" ConfigName="Debug"/>
+      <Project Name="MoveConstrutors" ConfigName="Debug"/>
+      <Project Name="StaticClassMembers" ConfigName="Debug"/>
+      <Project Name="Mystring-Home" ConfigName="Debug"/>
+      <Project Name="MyString-Copy" ConfigName="Debug"/>
+      <Project Name="hgdcpp" ConfigName="Debug"/>
+      <Project Name="TheProblem" ConfigName="Debug"/>
+      <Project Name="VirtualFunction" ConfigName="Debug"/>
+      <Project Name="virtualdestructors" ConfigName="Debug"/>
+      <Project Name="useoverride" ConfigName="Debug"/>
+      <Project Name="purevirtualfunction" ConfigName="Debug"/>
+      <Project Name="interfacesstart" ConfigName="Debug"/>
+      <Project Name="MPGException" ConfigName="Debug"/>
+      <Project Name="MPGFunction" ConfigName="Debug"/>
+      <Project Name="Functiontemplete" ConfigName="Debug"/>
+      <Project Name="ClassTemplate" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Section5" ConfigName="Release"/>
+      <Project Name="Variables" ConfigName="Release"/>
+      <Project Name="constants" ConfigName="Release"/>
+      <Project Name="arrays" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
+      <Project Name="operators" ConfigName="Release"/>
+      <Project Name="mixedexpression" ConfigName="Release"/>
+      <Project Name="logicaloperator" ConfigName="Release"/>
+      <Project Name="ifstatement" ConfigName="Release"/>
+      <Project Name="ifelse" ConfigName="Release"/>
+      <Project Name="nestedif" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="conditionaloperator" ConfigName="Release"/>
+      <Project Name="forloop" ConfigName="Release"/>
+      <Project Name="RangeBasedForLoop" ConfigName="Release"/>
+      <Project Name="whileloop" ConfigName="Release"/>
+      <Project Name="DoWhile" ConfigName="Release"/>
+      <Project Name="NestedLoops" ConfigName="Release"/>
+      <Project Name="project2" ConfigName="Release"/>
+      <Project Name="CStyleString" ConfigName="Release"/>
+      <Project Name="cppstrings" ConfigName="Release"/>
+      <Project Name="FunctionDefination" ConfigName="Release"/>
+      <Project Name="FunctionPrototype" ConfigName="Release"/>
+      <Project Name="DefaultArguments" ConfigName="Release"/>
+      <Project Name="pointers" ConfigName="Release"/>
+      <Project Name="dereferecingpointers" ConfigName="Release"/>
+      <Project Name="dynamicmemoryalloction" ConfigName="Release"/>
+      <Project Name="arrayandpointers" ConfigName="Release"/>
+      <Project Name="pointerarithmatic" ConfigName="Release"/>
+      <Project Name="passingpointers2" ConfigName="Release"/>
+      <Project Name="passingpointers3" ConfigName="Release"/>
+      <Project Name="ReturnPointer" ConfigName="Release"/>
+      <Project Name="refrences" ConfigName="Release"/>
+      <Project Name="vectorassignemnt" ConfigName="Release"/>
+      <Project Name="ControlFlowAssignment" ConfigName="Release"/>
+      <Project Name="pointersassignment" ConfigName="Release"/>
+      <Project Name="DeclearingClassesandObjects" ConfigName="Release"/>
+      <Project Name="AccesingClassMembers" ConfigName="Release"/>
+      <Project Name="publicandprivate" ConfigName="Release"/>
+      <Project Name="implementingMethods1" ConfigName="Release"/>
+      <Project Name="implementingMethods2" ConfigName="Release"/>
+      <Project Name="ConstructorsandDestructords" ConfigName="Release"/>
+      <Project Name="DefaultConstructors" ConfigName="Release"/>
+      <Project Name="ConstructorInitializationList" ConfigName="Release"/>
+      <Project Name="DelegatingConstructors" ConfigName="Release"/>
+      <Project Name="ConstructorParameterandDefaultValuers" ConfigName="Release"/>
+      <Project Name="CopyConstructor" ConfigName="Release"/>
+      <Project Name="shallowcopying" ConfigName="Release"/>
+      <Project Name="DeepCopying" ConfigName="Release"/>
+      <Project Name="MoveConstrutors" ConfigName="Release"/>
+      <Project Name="StaticClassMembers" ConfigName="Release"/>
+      <Project Name="Mystring-Home" ConfigName="Release"/>
+      <Project Name="MyString-Copy" ConfigName="Release"/>
+      <Project Name="hgdcpp" ConfigName="Release"/>
+      <Project Name="TheProblem" ConfigName="Release"/>
+      <Project Name="VirtualFunction" ConfigName="Release"/>
+      <Project Name="virtualdestructors" ConfigName="Release"/>
+      <Project Name="useoverride" ConfigName="Release"/>
+      <Project Name="purevirtualfunction" ConfigName="Release"/>
+      <Project Name="interfacesstart" ConfigName="Release"/>
+      <Project Name="MPGException" ConfigName="Release"/>
+      <Project Name="MPGFunction" ConfigName="Release"/>
+      <Project Name="Functiontemplete" ConfigName="Release"/>
+      <Project Name="ClassTemplate" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
